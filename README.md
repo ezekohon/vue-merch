@@ -1,5 +1,10 @@
 # vue-merch
 
+Login functionality is implied.
+To Improve: 
+- get the favorites functionality to a backend so it persists between renders.
+
+
 ## Project setup
 
 ```
